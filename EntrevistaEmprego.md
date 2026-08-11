@@ -10,7 +10,7 @@ Simule uma entrevista técnica de desenvolvimento! Abaixo estão 5 questões bas
 Qual comando do Git você deve utilizar para enviar suas alterações locais para a nuvem?
 
 - [ ] A) `git checkout origin feature/login`
-- [ ] B) `git push origin feature/login`
+- [x] B) `git push origin feature/login`
 - [ ] C) `git pull origin feature/login`
 - [ ] D) `git merge origin feature/login`
 - [ ] E) `git commit -m "pushing to origin"`
@@ -26,7 +26,7 @@ Qual é o comando mais direto e eficiente para realizar essa ação em um único
 - [ ] B) `git checkout -b feature/validacao-cpf`
 - [ ] C) `git switch --create-only feature/validacao-cpf`
 - [ ] D) `git merge feature/validacao-cpf`
-- [ ] E) `git add -b feature/validacao-cpf`
+- [x] E) `git add -b feature/validacao-cpf`
 
 ---
 
@@ -37,7 +37,7 @@ Qual comando você deve executar no terminal?
 
 - [ ] A) `git status --all`
 - [ ] B) `git save .`
-- [ ] C) `git add .`
+- [x] C) `git add .`
 - [ ] D) `git commit -a "adicionando arquivos"`
 - [ ] E) `git push --stage`
 
@@ -48,7 +48,7 @@ Qual comando você deve executar no terminal?
 
 Qual comando realiza a fusão dessas duas branches?
 
-- [ ] A) `git merge hotfix/formatoData`
+- [x] A) `git merge hotfix/formatoData`
 - [ ] B) `git pull hotfix/formatoData`
 - [ ] C) `git checkout hotfix/formatoData`
 - [ ] D) `git clone hotfix/formatoData`
@@ -65,4 +65,4 @@ Qual comando garante que seu código local receba essas atualizações da nuvem?
 - [ ] B) `git push`
 - [ ] C) `git commit -m "atualizar"`
 - [ ] D) `git pull`
-- [ ] E) `git checkout -f`
+- [x] E) `git checkout -f`
